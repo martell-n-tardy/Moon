@@ -1,6 +1,6 @@
 # Site
 title:              Martell Tardy, M.S.
-bio:                'ML Data Scientist | Enjoys Exploring Data in Python, SQL and R.'
+bio:                'ML Data Scientist | Enjoys Exploring Data in Python, SQL and R'
 description:        "website."
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   martell
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              martelltardy1@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         martell-n-tardy
